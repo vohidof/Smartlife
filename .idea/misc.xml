@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Smartlife/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1415" />
+        <entry key="..\:/Smartlife/app/src/main/res/drawable/edt_background.xml" value="0.1" />
         <entry key="..\:/Smartlife/app/src/main/res/drawable/ic__608831_share_icon.xml" value="0.149" />
         <entry key="..\:/Smartlife/app/src/main/res/drawable/ic__643739_forward_next_right_share_turn_icon.xml" value="0.1415" />
         <entry key="..\:/Smartlife/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1415" />
@@ -19,6 +20,10 @@
         <entry key="..\:/Smartlife/app/src/main/res/drawable/ic_share.xml" value="0.2203125" />
         <entry key="..\:/Smartlife/app/src/main/res/drawable/internet_bg.xml" value="0.1" />
         <entry key="..\:/Smartlife/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Smartlife/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Smartlife/app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="..\:/Smartlife/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Smartlife/app/src/main/res/layout/activity_user_details.xml" value="0.18" />
         <entry key="..\:/Smartlife/app/src/main/res/layout/fragment_home.xml" value="0.1213768115942029" />
         <entry key="..\:/Smartlife/app/src/main/res/layout/fragment_my_video.xml" value="0.17" />
         <entry key="..\:/Smartlife/app/src/main/res/layout/no_internet_dialog.xml" value="0.25" />
