@@ -72,7 +72,7 @@ class HomeFragment : Fragment() {
 
                     }
                 }
-                adapter = VideoAdapter(listDB, childFragmentManager, lifecycle)
+                adapter = VideoAdapter(list, childFragmentManager, lifecycle)
                 binding.viewPager.adapter = adapter
             }
 

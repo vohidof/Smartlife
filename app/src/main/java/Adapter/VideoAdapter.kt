@@ -1,6 +1,5 @@
 package Adapter
 
-import Database.VideoDB
 import Fragment.MyVideoFragment
 import Model.MyVideo
 import androidx.fragment.app.Fragment
@@ -9,7 +8,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
 class VideoAdapter  (
-    var list: ArrayList<VideoDB>,
+    var list: ArrayList<MyVideo>,
     fragmentManager: FragmentManager,
     lifecycle: Lifecycle
 ) : FragmentStateAdapter(fragmentManager, lifecycle) {
